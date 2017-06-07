@@ -2,6 +2,7 @@
 1. **[Full Curriculums](#full-curriculums)**
 2. **[Bootcamp Prep](#bootcamp-prep)**
 3. **[Coding Challenges](#coding-challenges)**
+4. **[Books](#books)**
 
 ---
 ### Full Curriculums
@@ -24,4 +25,13 @@
 * [CodinGame](https://www.codingame.com/)
   * description
 * [HackerRank](https://www.hackerrank.com/)
+  * description
+
+---
+### Books
+* [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+  * description
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+  * description
+* [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
   * description
