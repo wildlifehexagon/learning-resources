@@ -3,13 +3,14 @@
 2. **[Bootcamp Prep](#bootcamp-prep)**
 3. **[Coding Challenges](#coding-challenges)**
 4. **[Books](#books)**
+5. **[Regular Expressions](#regex)**
 
 ---
 ### Full Curriculums
 * [freeCodeCamp](https://www.freecodecamp.com/)
   * JavaScript-based program with certificates for front end, back end and data visualization. The best of the best.
 * [The Odin Project](http://www.theodinproject.com/)
-  * description
+  * Ruby and JavaScript-based career path that compiles several free resources online.
 
 ---
 ### Bootcamp Prep
@@ -26,6 +27,8 @@
   * description
 * [HackerRank](https://www.hackerrank.com/)
   * description
+* [Project Euler](https://projecteuler.net/)
+  * description
 
 ---
 ### Books
@@ -34,4 +37,9 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
   * description
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+  * description
+
+---
+### Regular Expressions
+* [RegExr](http://www.regexr.com/)
   * description
