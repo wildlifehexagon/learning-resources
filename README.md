@@ -11,6 +11,10 @@
   * JavaScript-based program with certificates for front end, back end and data visualization. The best of the best.
 * [The Odin Project](http://www.theodinproject.com/)
   * Ruby and JavaScript-based career path that compiles several free resources online.
+* [P1xt Guides](https://github.com/P1xt/p1xt-guides)
+  * Several guides to learn different aspects of programming, including a "job ready" web developer plan
+* [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+  * "This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended for Computer Science students seeking an internship or university grad role at Google."
 
 ---
 ### Bootcamp Prep
