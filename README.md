@@ -13,26 +13,22 @@
   * Ruby and JavaScript-based career path that compiles several free resources online.
 * [P1xt Guides](https://github.com/P1xt/p1xt-guides)
   * Several guides to learn different aspects of programming, including a "job ready" web developer plan
-* [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-  * "This guide provides tips and resources to help you develop your technical skills (academically and non-academically) through self-paced, hands-on learning. This guide is intended for Computer Science students seeking an internship or university grad role at Google."
+* [Google's Technical Development Guide](https://techdevguide.withgoogle.com/)
+  * Curated guide from Google with coding interview questions and links to various computer science and machine learning courses.
 
 ---
 ### Bootcamp Prep
 * [Learn.co](https://learn.co/tracks/bootcamp-prep)
   * Fairly extensive prepwork with JavaScript and Ruby tracks, as well as some basic interview prep
 * [Viking Code School](https://www.vikingcodeschool.com/prep)
-  * description
+  * Comprehensive coursework that goes through front end (Bootstrap), JavaScript, Ruby and software engineering basics. Includes full application projects.
 
 ---
 ### Coding Challenges
 * [CodeWars](https://www.codewars.com/)
-  * description
 * [CodinGame](https://www.codingame.com/)
-  * description
 * [HackerRank](https://www.hackerrank.com/)
-  * description
 * [Project Euler](https://projecteuler.net/)
-  * description
 
 ---
 ### Books
