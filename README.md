@@ -2,8 +2,11 @@
 1. **[Full Curriculums](#full-curriculums)**
 2. **[Bootcamp Prep](#bootcamp-prep)**
 3. **[Coding Challenges](#coding-challenges)**
-4. **[Books](#books)**
-5. **[Regular Expressions](#regex)**
+4. **[Courses](#courses)**
+5. **[Books](#books)**
+6. **[MOOCs](#moocs)**
+7. **[Regular Expressions](#regex)**
+8. **[Interview/Career Prep](#interview)**
 
 ---
 ### Full Curriculums
@@ -15,6 +18,8 @@
   * Several guides to learn different aspects of programming, including a "job ready" web developer plan
 * [Google's Technical Development Guide](https://techdevguide.withgoogle.com/)
   * Curated guide from Google with coding interview questions and links to various computer science and machine learning courses.
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+  * Guideline for a "world-class CS education", primarily in the form of textbooks and video lectures
 
 ---
 ### Bootcamp Prep
@@ -31,15 +36,29 @@
 * [Project Euler](https://projecteuler.net/)
 
 ---
+### Courses
+* [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/) (costs $$$ but goes on sale for $10 regularly)
+* [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+* [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
+* [JavaScript 30](https://javascript30.com/)
+
+---
 ### Books
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
-  * description
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-  * description
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-  * description
+
+---
+### MOOCs
+* [Udacity](https://www.udacity.com/)
+* [edX](https://www.edx.org/)
+* [Coursera](https://www.coursera.org/)
+* [MongoDB University](https://university.mongodb.com/courses/catalog)
 
 ---
 ### Regular Expressions
 * [RegExr](http://www.regexr.com/)
-  * description
+
+---
+### Interview/Career Prep
+* [Udacity Career Resource Center](https://career-resource-center.udacity.com/)
