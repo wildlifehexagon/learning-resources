@@ -34,6 +34,7 @@
 * [CodinGame](https://www.codingame.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
+* [CodeFights](https://codefights.com/)
 
 ---
 ### Courses
