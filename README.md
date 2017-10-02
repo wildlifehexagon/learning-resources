@@ -5,8 +5,9 @@
 4. **[Courses](#courses)**
 5. **[Books](#books)**
 6. **[MOOCs](#moocs)**
-7. **[Regular Expressions](#regex)**
-8. **[Interview/Career Prep](#interview)**
+7. **[Algorithms](#algorithms)**
+8. **[Regular Expressions](#regex)**
+9. **[Interview/Career Prep](#interview)**
 
 ---
 ### Full Curriculums
@@ -55,6 +56,10 @@
 * [edX](https://www.edx.org/)
 * [Coursera](https://www.coursera.org/)
 * [MongoDB University](https://university.mongodb.com/courses/catalog)
+
+---
+### Algorithms
+* [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ---
 ### Regular Expressions
