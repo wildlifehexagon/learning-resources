@@ -36,6 +36,8 @@
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
 * [CodeFights](https://codefights.com/)
+* [LeetCode](https://leetcode.com/)
+* [CodeForces](http://codeforces.com/)
 
 ---
 ### Courses
